@@ -1,5 +1,3 @@
-# Capstone_project_HACTIVE8_ibm-granite
-Melakukan perbandingan antara logistic regression dan juga ibm granite instruct (via replicate api)
 
 # Capstone Project – Text Classification & Summarization (20 Newsgroups)
 
